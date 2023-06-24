@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Jasurbek</h1>
-<h3 align="left">.NET Software Engineer</h3>
+<h3 align="left">.NET Developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasurbeek17&label=Profile%20views&color=0e75b6&style=flat" alt="jasurbeek17" /> </p> -->
